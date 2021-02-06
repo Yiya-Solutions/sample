@@ -1,0 +1,53 @@
+type: module
+id: what-is-stem
+name: Intro Module: What is STEM?
+description: Overview of STEM and its importance.
+category: Introduction
+lessons:
+  - name: What is Technology?
+    description: Definition and examples of technology.
+    script:
+      en: >-
+        A technology is anything made by humans to solve a problem or make life
+        easier! Simple tools like cups, spoons, chairs, and slippers are all
+        technologies! There are three categories of technology objects, systems, and
+        processes. An object is a technology made of just one material, like a cup
+        or spoon. A system has multiple pieces working together, like a notebook or
+        bicycle. A process is a procedure for how to do something or how to make
+        something. Cooking is a process technology!
+      bnt: >-
+        Bantu translation
+    # Audio also available
+    audio:
+      en: stem-what-is-technology_en.mp3
+      bnt: stem-what-is-technology_bnt.mp3
+    image: stem-technology.png
+    quiz:
+      - question: 
+          en: What do you want to achieve from the Yiya AirScience program?
+          bnt: ...
+        choices:
+          - en: To learn science from home
+            bnt: ...
+          - en: To create a technology this year
+            bnt: ...
+          - en: To pass exams
+            bnt: ...
+          - en: To start a business 
+            bnt: ...
+      - question: What makes a pen, a cup, or a paper a technology?
+        choices:
+          - en: They are all made in industries
+            bnt: ...
+          - en: They all simplify life or solve a problem
+            bnt: ...
+            correct: YES
+          - en: They all use electricity to work
+            bnt: ...
+    extras:
+      # Only english available
+      - name: Definition of technology
+        script: >- 
+          A technology is anything made by humans to solve a problem or
+          make life easier! Cups, spoons, chairs, slippers are all technologies.
+
