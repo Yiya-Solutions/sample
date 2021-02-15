@@ -5,10 +5,10 @@
 
 ## test-group
 
-* [A Group](test-group/a-group.md)
+* [A Group](test-group/a-group/README.md)
+  * [Test API](test-group/a-group/test-api.md)
 
 ---
 
 * [Google](https://www.google.com)
-* [Test API](test-api.md)
 
