@@ -20,16 +20,24 @@ Test codeblock
 Notification
 {% endhint %}
 
-This is a quiz question? ptionl e nwe
+This is a quiz question?
 
-* [ ] Response wrong `Feedback on wrong answer`
-* [x] Response right \[\(Optional feedback on correct answer\]\)
+* [ ] Response wrong 
+
+  Follow up question
+
+  * [ ] Follow up choice
+  * [x] Another follow up choice
+
+* [x] Response right
 
 {% page-ref page="this-is-a-sample.md" %}
 
 ## Test heading <a id="with-a-different-anchor"></a>
 
 Some text underneath it [This is something](this-is-a-sample.md#with-a-different-anchor)
+
+
 
 When I make an [inline link ](this-is-a-sample.md#with-a-different-anchor)here, what happens?
 
