@@ -15,7 +15,7 @@
 | Content | Content |
 | Content | Content |
 
-## This is a test {:\#this-is-a-test} <a id="say-what"></a>
+## This is a test &lt;a id="say-what"&gt;&lt;/a&gt;  <a id="say-what"></a>
 
 * Here is another item
 * And another
