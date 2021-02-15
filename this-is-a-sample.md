@@ -27,5 +27,7 @@ Quiz
 
 {% page-ref page="this-is-a-sample.md" %}
 
+### Test heading <a id="with-a-different-anchor"></a>
 
+Some text underneath it
 
