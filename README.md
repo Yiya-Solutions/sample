@@ -24,6 +24,8 @@
 
 This is [a link](./#say-what)
 
+![](.gitbook/assets/just+yiya+logo+-+small-done%20%281%29%20%281%29.png)
+
 
 
 ## Test heading anchor something else <a id="test-heading-anchor-test"></a>
