@@ -23,8 +23,8 @@ Notification
 ## Quiz Question 1 `Code`
 
 ```yaml
-advanced: options
-with: links
+advanced: features
+with: options
 ```
 
 This is a quiz question?
