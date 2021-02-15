@@ -8,8 +8,7 @@ other: test
 1. Choice 1
 2. Choice 2
 3. Choice 3
-
-
+4. Another choice
 
 {% tabs %}
 {% tab title="First Tab" %}
@@ -22,8 +21,4 @@ asdfasdf
 
 {% endtab %}
 {% endtabs %}
-
-
-
-
 
