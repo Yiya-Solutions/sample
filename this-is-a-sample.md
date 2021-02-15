@@ -20,7 +20,7 @@ Test codeblock
 Notification
 {% endhint %}
 
-## Quiz Question 1
+## Quiz Question 1 `Code`
 
 ```yaml
 advanced: options
@@ -55,4 +55,8 @@ Some text underneath it [This is something](this-is-a-sample.md#with-a-different
 
 
 When I make an [inline link ](this-is-a-sample.md#with-a-different-anchor)here, what happens?
+
+
+
+## Can I do this `Inline`
 
