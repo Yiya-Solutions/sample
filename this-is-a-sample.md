@@ -22,8 +22,8 @@ Notification
 
 This is a quiz question?
 
-* [ ] Response wrong \(Optional feedback on wrong answer\)
-* [x] Response right \(Optional feedback on correct answer\)
+* [ ] Response wrong \[Optional feedback on wrong answer\]
+* [x] Response right \[Optional feedback on correct answer\]
 
 {% page-ref page="this-is-a-sample.md" %}
 
