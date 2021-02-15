@@ -4,9 +4,25 @@ description: Some description of content
 
 # This is a sample
 
-* [ ] Choice 1
-* [ ] Choice 2
-* [ ] Choice 3
+1. Choice 1
+2. Choice 2
+3. Choice 3
+
+
+
+{% tabs %}
+{% tab title="First Tab" %}
+* [ ] asdfasdf
+
+asdfasdf
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
+
 
 
 
