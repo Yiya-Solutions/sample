@@ -20,16 +20,31 @@ Test codeblock
 Notification
 {% endhint %}
 
+## Quiz Question 1
+
+```yaml
+advanced: options
+with: links
+```
+
 This is a quiz question?
 
-* [ ] Response wrong 
+* [ ] Response wrong  `Feedback on wrong answer`
+* [x] Response right`Feedback on correct answer`[Go to question 3](this-is-a-sample.md#quiz-question-3) 
 
-  Follow up question
+## Quiz Question 2
 
-  * [ ] Follow up choice
-  * [x] Another follow up choice
+This is a quiz question?
 
-* [x] Response right
+* [ ] Response wrong  `Feedback on wrong answer`
+* [x] Response right `Feedback on correct answer` 
+
+## Quiz Question 3
+
+This is a quiz question?
+
+* [ ] Response wrong  `Feedback on wrong answer`
+* [x] Response right `Feedback on correct answer` 
 
 {% page-ref page="this-is-a-sample.md" %}
 
