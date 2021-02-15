@@ -1,6 +1,6 @@
 # Test API
 
-{% api-method method="put" host="https://api.cakes.com" path="/v1/cakes/:id" %}
+{% api-method method="puget" host="https://api.cakes.com" path="/v1/cakes/:id" %}
 {% api-method-summary %}
 Get Cakes
 {% endapi-method-summary %}
@@ -64,3 +64,6 @@ $$
 
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTM2MTY3NjgzNV19
+-->
