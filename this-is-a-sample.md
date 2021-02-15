@@ -1,5 +1,6 @@
 ---
 description: Some description of content
+other: test
 ---
 
 # This is a sample
