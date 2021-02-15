@@ -28,5 +28,19 @@ This is [a link](./#say-what)
 
 
 
-## Test heading anchor something else <a id="test-heading-anchor-test"></a>
+## Test heading anchor something else <a id="test-heading-anchor-test
 
+> test
+
+{: test}
+
+## This is a test {:\#this-is-a-test}
+
+* Here is another item
+* And another
+
+##  <a id="something-else"></a>
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTc0MTI1Mzk2XX0=
+-->
