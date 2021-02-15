@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [sample](README.md)
+* [This is a sample](this-is-a-sample.md)
 
