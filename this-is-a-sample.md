@@ -30,10 +30,10 @@ This is a quiz question?
 ### Test heading <a id="with-a-different-anchor"></a>
 
 Some text underneath it
-[This is something](./#with-a-different-anchor)
+[This is something](#with-a-different-anchor)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODI4Nzk2NjhdfQ==
+eyJoaXN0b3J5IjpbNjkyNzA5MzIzLC0xMDgyODc5NjY4XX0=
 -->
