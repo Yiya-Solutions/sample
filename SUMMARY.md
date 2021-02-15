@@ -5,15 +5,9 @@
 
 ## test-group
 
-* [A Group](test-group/a-group/README.md)
-  /test-api.md)
+* [A Group](test-group/a-group.md)
 
 ---
 
 * [Google](https://www.google.com)
 
-## Module 1
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQzOTYyMjRdfQ==
--->

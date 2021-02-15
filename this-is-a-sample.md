@@ -23,6 +23,12 @@ Notification
 This is a quiz question?
 
 * [ ] Response wrong 
+
+  Follow up question
+
+  * [ ] Follow up choice
+  * [x] Another follow up choice
+
 * [x] Response right
 
 {% page-ref page="this-is-a-sample.md" %}
