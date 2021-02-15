@@ -21,9 +21,9 @@ Notification
 {% endhint %}
 
 This is a quiz question?
-
-* [ ] Response wrong \[Optional feedback on wrong answer\]
-* [x] Response right \[Optional feedback on correct answer\]
+ptionl e   nwe
+* [ ] Response wrong \[(Optional feedback on wrong answer\])
+* [x] Response right \[(Optional feedback on correct answer\])
 
 {% page-ref page="this-is-a-sample.md" %}
 
@@ -39,3 +39,6 @@ When I make an [inline link ](this-is-a-sample.md#with-a-different-anchor)here, 
 
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTU4MDY0MDk3XX0=
+-->
