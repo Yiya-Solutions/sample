@@ -1,4 +1,2 @@
-# sample
+# Initial page
 
-- Here is another item
-- And another
