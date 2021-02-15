@@ -22,7 +22,7 @@ Notification
 
 This is a quiz question? ptionl e nwe
 
-* [ ] Response wrong Next question `feedback: This is wrong, next:`[`queue`](./#test-heading-anchor-something-else-less-than-less-than-less-than-less-than-less-than-less-than-a-id-test-heading-anchor-test)\`\`
+* [ ] Response wrong `Feedback on wrong answer`
 * [x] Response right \[\(Optional feedback on correct answer\]\)
 
 {% page-ref page="this-is-a-sample.md" %}

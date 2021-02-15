@@ -5,7 +5,7 @@
 
 ## test-group
 
-* [\[\[A Group.md\)\].md.md\)\].md-.md-te.md.md](test-group/a-group.md-.md.md-.md-.md-te.md.md.md)
+* [\[\[A Group.md\)\].md.md\)](test-group/a-group.md-.md.md.md)
 
 ---
 
