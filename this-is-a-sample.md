@@ -22,14 +22,8 @@ Notification
 
 This is a quiz question?
 
-* [ ] Response wrong 
-
-  Follow up question
-
-  * [ ] Follow up choice
-  * [x] Another follow up choice
-
-* [x] Response right
+* [ ] Response wrong \(Optional feedback on wrong answer\)
+* [x] Response right \(Optional feedback on correct answer\)
 
 {% page-ref page="this-is-a-sample.md" %}
 
@@ -40,4 +34,8 @@ Some text underneath it [This is something](this-is-a-sample.md#with-a-different
 
 
 When I make an [inline link ](this-is-a-sample.md#with-a-different-anchor)here, what happens?
+
+
+
+
 

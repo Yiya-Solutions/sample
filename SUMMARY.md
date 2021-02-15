@@ -5,14 +5,9 @@
 
 ## test-group
 
-* [A Group.md)
+* [\[A Group.md\)](test-group/a-group.md.md)
 
 ---
 
 * [Google](https://www.google.com)
 
-## Module 1
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1ODU0Mjk5NF19
--->
