@@ -22,5 +22,5 @@
 
 {% page-ref page="./" %}
 
-This is [a link](./#this-is-a-test-this-is-a-test)
+This is [a link](./#say-what)
 
