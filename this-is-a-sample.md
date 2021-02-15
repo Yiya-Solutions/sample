@@ -10,15 +10,22 @@ other: test
 3. Choice 3
 4. Another choice
 
-{% tabs %}
-{% tab title="First Tab" %}
-* [ ] asdfasdf
+```text
+Test codeblock
+```
 
-asdfasdf
-{% endtab %}
+> A quote
 
-{% tab title="Second Tab" %}
+{% hint style="info" %}
+Notification
+{% endhint %}
 
-{% endtab %}
-{% endtabs %}
+Quiz
+
+* [ ] Response wrong 
+* [x] Response right
+
+{% page-ref page="this-is-a-sample.md" %}
+
+
 
