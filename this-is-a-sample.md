@@ -54,6 +54,10 @@ l[ink test `with code` block](./#what-is-it-now)
 
 This is a quiz question?
 
+> If we do this `we cannot have blocks` oh wait we can
+
+
+
 * [ ] Response wrong  `Feedback on wrong answer`
 * [x] Response right `Feedback on correct answer` 
 
@@ -61,7 +65,11 @@ This is a quiz question?
 
 ## `name` Test heading <a id="with-a-different-anchor"></a>
 
-Some text underneath it [This is something](this-is-a-sample.md#with-a-different-anchor)
+Some text underneath it [This is something](this-is-a-sample.md#with-a-different-anchor) {this=test, this=test}
+
+> test
+
+
 
 
 
