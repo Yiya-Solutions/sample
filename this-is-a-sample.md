@@ -56,7 +56,9 @@ Some text underneath it [This is something](this-is-a-sample.md#with-a-different
 
 When I make an [inline link ](this-is-a-sample.md#with-a-different-anchor)here, what happens?
 
+> Test
 
+This is a &gt; test
 
 ## Can I do this `Inline`
 
