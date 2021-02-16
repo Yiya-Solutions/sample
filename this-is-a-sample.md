@@ -10,11 +10,9 @@ other: test
 3. Choice 3
 4. Another choice
 
-{% code title="something.test" %}
-```text
+```typescript
 Test codeblock
 ```
-{% endcode %}
 
 > A quote
 
