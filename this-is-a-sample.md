@@ -20,7 +20,26 @@ Test: codeblock
 Notification
 {% endhint %}
 
-## Quiz Question 1 `test` `Code`
+## Free Response Question
+
+What is the date you want to start?
+
+`required date`
+
+## Quiz Question 1
+
+The question to display? `required`
+
+* `date` 
+
+
+
+## Question with correct typed response
+
+What is todays date?
+
+* [x] `today`
+* [ ] `date` `points: 2`
 
 ```yaml
 advanced: features
@@ -29,9 +48,16 @@ with: options
 
 This is a quiz question? `tag` `tag: with value` `tag: with another value`
 
-* [ ] Response wrong  `Feedback on wrong answer`
+* [ ] Response wrong  `required` 
 * [x] Response right`Feedback on correct answer`[Go to question 3](this-is-a-sample.md#quiz-question-3) 
 * [x] A response `feedback: test`
+
+Word  
+:  Definition of it
+
+
+
+
 
 This is `test` [`block`](./#what-is-it-now)\`\`
 
