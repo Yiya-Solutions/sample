@@ -15,6 +15,22 @@
 | Content | Content |
 | Content | Content |
 
+## Tab test <a id="say-what"></a>
+
+{% tabs %}
+{% tab title="First Tab" %}
+First content
+{% endtab %}
+
+{% tab title="Second Tab" %}
+second content
+{% endtab %}
+
+{% tab title="Third tab" %}
+third content
+{% endtab %}
+{% endtabs %}
+
 ## This is a test &lt;a id="say-what"&gt;&lt;/a&gt; <a id="say-what"></a>
 
 * Here is another item
