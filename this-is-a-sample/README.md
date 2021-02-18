@@ -10,7 +10,7 @@ other: test
 3. Choice 3
 4. Another choice
 
-![Something they can see](.gitbook/assets/wraparound-team-facilitator-badge-1-.png)
+![Something they can see](../.gitbook/assets/wraparound-team-facilitator-badge-1-.png)
 
 ```yaml
 Test: codeblock
@@ -26,7 +26,7 @@ Notification
 
 What is the date you want to start?
 
-{% file src=".gitbook/assets/wraparound-team-facilitator-badge-1-.png" caption="Caption" %}
+{% file src="../.gitbook/assets/wraparound-team-facilitator-badge-1-.png" caption="Caption" %}
 
 {% hint style="info" %}
 Company
@@ -57,7 +57,7 @@ with: options
 This is a quiz question? `tag` `tag: with value` `tag: with another value`
 
 * [ ] Response wrong  `required` 
-* [x] Response right`Feedback on correct answer`[Go to question 3](this-is-a-sample.md#quiz-question-3) 
+* [x] Response right`Feedback on correct answer`[Go to question 3](./#quiz-question-3) 
 * [x] A response `feedback: test`
 
 > Test quote used for comments
@@ -69,9 +69,9 @@ Word
 
 
 
-This is `test` [`block`](./#what-is-it-now)\`\`
+This is `test` [`block`](../#what-is-it-now)\`\`
 
-l[ink test `with code` block](./#what-is-it-now)
+l[ink test `with code` block](../#what-is-it-now)
 
 ## Quiz Question 2 \(test\) \`code\`
 
@@ -97,11 +97,11 @@ This is a quiz question?
 * [ ] Response wrong  `Feedback on wrong answer`
 * [x] Response right `Feedback on correct answer` 
 
-{% page-ref page="this-is-a-sample.md" %}
+{% page-ref page="./" %}
 
 ## `name` Test heading <a id="with-a-different-anchor"></a>
 
-Some text underneath it [This is something](this-is-a-sample.md#with-a-different-anchor) {this=test, this=test}
+Some text underneath it [This is something](./#with-a-different-anchor) {this=test, this=test}
 
 > test
 
@@ -109,7 +109,7 @@ Some text underneath it [This is something](this-is-a-sample.md#with-a-different
 
 
 
-When I make an [inline link ](this-is-a-sample.md#with-a-different-anchor)here, what happens?
+When I make an [inline link ](./#with-a-different-anchor)here, what happens?
 
 > Test
 
