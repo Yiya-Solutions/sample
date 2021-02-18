@@ -2,7 +2,7 @@
 
 Yaliyomo chini
 
-- Here are some
+- Hapa kuna kadhaa
 - Maoni zaidi
 - Hiyo inaweza kuokolewa
 
