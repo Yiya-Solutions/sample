@@ -10,6 +10,8 @@ other: test
 3. Choice 3
 4. Another choice
 
+![Something they can see](.gitbook/assets/wraparound-team-facilitator-badge-1-.png)
+
 ```yaml
 Test: codeblock
 ```
@@ -23,6 +25,12 @@ Notification
 ## Free Response Question
 
 What is the date you want to start?
+
+{% file src=".gitbook/assets/wraparound-team-facilitator-badge-1-.png" caption="Caption" %}
+
+{% hint style="info" %}
+Company
+{% endhint %}
 
 `required date`
 
