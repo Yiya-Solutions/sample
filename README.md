@@ -3,7 +3,7 @@
 * Here are some new lines
 * That I want to integrate
 
-
+[![gitlocalized ](https://gitlocalize.com/repo/5764/whole_project/badge.svg)](https://gitlocalize.com/repo/5764/whole_project?utm_source=badge)
 
 ## Test  <a id="something-else"></a>
 
