@@ -54,6 +54,8 @@ This is [a link](./#say-what)
 
 Test [link](./#other-anchor)
 
+Outside a page [link](this-is-a-sample/#quiz-question-2-test-code)
+
 > test
 
 {: test}
