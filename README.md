@@ -36,13 +36,23 @@ third content
 * Here is another item
 * And another
 
+This is a test.
+
 {% page-ref page="./" %}
 
 This is [a link](./#say-what)
 
-![](.gitbook/assets/just+yiya+logo+-+small-done%20%281%29%20%281%29.png)
+![](.gitbook/assets/just+yiya+logo+-+small-done%20%281%29%20%281%29%20%282%29%20%282%29.png)
 
 ## Test heading anchor something else &lt;&lt;a id="test-heading-anchor-test
+
+### Subanchor
+
+#### Other anchor
+
+### Another
+
+Test [link](./#other-anchor)
 
 > test
 
