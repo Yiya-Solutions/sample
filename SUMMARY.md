@@ -6,7 +6,7 @@
 
 ## test-group
 
-* [A Group](test-group/a-group.md)
+* [A Group \`something\`](test-group/a-group.md)
 
 ---
 
