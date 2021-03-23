@@ -24,9 +24,11 @@ Notification
 
 ## Free Response Question
 
-What is the date you want to start?
+What is the date you want to start? `nav`
 
-{% file src="../.gitbook/assets/wraparound-team-facilitator-badge-1-.png" caption="Caption" %}
+Test [thing](./#quiz-question-1)
+
+* [User name](./#quiz-question-1) `sync`
 
 {% hint style="info" %}
 Company
@@ -116,4 +118,19 @@ When I make an [inline link ](./#with-a-different-anchor)here, what happens?
 This is a &gt; test
 
 ## Can I do this `Inline`
+
+\`\`
+
+## Header
+
+Message
+
+Following message
+
+Question?
+
+* Response
+* Response
+
+Message
 
