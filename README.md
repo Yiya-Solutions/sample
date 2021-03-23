@@ -72,11 +72,18 @@ Outside a page [link](this-is-a-sample/#quiz-question-2-test-code)
 
 ## Link conundrum \`sync\` [alan](this-is-a-sample/#quiz-question-3)
 
+
+
 Choices \[`this`\]\(https://www.google.com\) 
 
 \[test\]\(https://www.google.com\) 
 
-* Copy the content 
-* Copy the user response
-* Go to that location
+* Copy the content  \(Don't need this. Can manually copy\)
+* Copy the user response .\(The default for paragraph and choices\) 
+* Go to that location'
+* Store the response in that location \(only, and also?\) .\(Links in headers\) 
+
+
+
+`copy`
 
