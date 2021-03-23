@@ -74,6 +74,8 @@ Outside a page [link](this-is-a-sample/#quiz-question-2-test-code)
 
 Choices \[`this`\]\(https://www.google.com\) 
 
+\[test\]\(https://www.google.com\) 
+
 * Copy the content 
 * Copy the user response
 * Go to that location
