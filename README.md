@@ -67,6 +67,8 @@ Outside a page [link](this-is-a-sample/#quiz-question-2-test-code)
 ## This is a test {:\#this-is-a-test}
 
 * Here is another item
-* And another
-* \`\`[`copy`](test-group/a-group.md#header)\`\`
+  * `go`  [`g`](this-is-a-sample/#question-with-correct-typed-response)
+  * And another
+
+
 
