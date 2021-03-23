@@ -70,5 +70,11 @@ Outside a page [link](this-is-a-sample/#quiz-question-2-test-code)
   * `go`  [`g`](this-is-a-sample/#question-with-correct-typed-response)
   * And another
 
+## Link conundrum \`sync\` [alan](this-is-a-sample/#quiz-question-3)
 
+Choices \[`this`\]\(https://www.google.com\) 
+
+* Copy the content 
+* Copy the user response
+* Go to that location
 
