@@ -85,5 +85,18 @@ Choices \[`this`\]\(https://www.google.com\)
 
 
 
+Should scripts be linear? Or have their own logic TBD by code?
+
+* Questions that depend on previous answers? E.g. forking
+  * `go` [Test](test-group/a-group.md)
+  * `feedback` This is okay, you'll get it next time.
+* This is the answer `go` here
+* asdf
+  * [ ] asdf
+* asdf
+* fd
+
+
+
 `copy`
 

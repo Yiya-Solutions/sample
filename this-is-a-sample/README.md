@@ -69,6 +69,10 @@ Word
 
 
 
+> Test [link](../test-group/a-group.md#header)
+
+
+
 
 
 This is `test` [`block`](../#what-is-it-now)\`\`
