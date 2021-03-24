@@ -85,6 +85,28 @@ Choices \[`this`\]\(https://www.google.com\)
 
 
 
+This is an "[example](test-group/a-group.md#header)"
+
+
+
+[This is a `longer` test](test-group/a-group.md#header)
+
+[`longer`](this-is-a-sample/#free-response-question)
+
+
+
+Hello [student](test-group/a-group.md#header), how are you today?
+
+* Should be consistent for [choices](test-group/a-group.md#header)
+
+Maybe, if the entire thing is a link we assume that is a jump to command, if it is embedded we assume that it is a replace?
+
+What if if the header target does not have choices?
+
+
+
+
+
 Should scripts be linear? Or have their own logic TBD by code?
 
 * Questions that depend on previous answers? E.g. forking
@@ -96,7 +118,33 @@ Should scripts be linear? Or have their own logic TBD by code?
 * asdf
 * fd
 
+`go`
 
+* * `go`
+  * [Link](test-group/a-group.md#header)
+  * [Link](this-is-a-sample/this-is-a-sable.md)
+  * [adsf](this-is-a-sample/this-is-a-sable.md#question-with-correct-typed-response) 
+* `sync` [Test](test-group/a-group.md#header)
+* `save` User name
+* `type`
+* `skip`
+
+Optional question? `optional`
+
+This is an example question? With a tag that ensures we get a response. `go`
+
+* [Choices](this-is-a-sample/#quiz-question-1)
+* [Another](test-group/a-group.md#header)
 
 `copy`
+
+> * Test
+> * One T
+> * Thre
+
+* asdf
+
+
+
+
 
