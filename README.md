@@ -5,7 +5,7 @@
 
 [![gitlocalized ](https://gitlocalize.com/repo/5764/whole_project/badge.svg)](https://gitlocalize.com/repo/5764/whole_project?utm_source=badge)
 
-## Test  <a id="something-else"></a>
+## Test <a id="something-else"></a>
 
 {% tabs %}
 {% tab title="First Tab" %}
