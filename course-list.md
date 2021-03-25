@@ -1,5 +1,5 @@
 ---
-description: Nested lists is hard to copy/paste
+description: 'Nested lists is hard to copy/paste, not easily extendible'
 ---
 
 # Course List

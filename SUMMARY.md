@@ -25,4 +25,12 @@
 * [Course Explicit](course-explicit.md)
 * [Course Implicit](course-implicit.md)
 * [Course List](course-list.md)
+* [Course Nested Pages](course-nested-pages/README.md)
+  * [Module 1](course-nested-pages/module-1/README.md)
+    * [Lesson 1](course-nested-pages/module-1/lesson-1.md)
+  * [Module 2](course-nested-pages/module-2/README.md)
+    * [Lesson 1](course-nested-pages/module-2/lesson-1.md)
+    * [Lesson 2](course-nested-pages/module-2/lesson-2.md)
+  * [Example Lesson](course-nested-pages/example-lesson.md)
+* [Untitled](untitled.md)
 

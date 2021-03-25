@@ -6,21 +6,22 @@ description: >-
 
 # Course Implicit
 
+Yiya Air Science  
+Welcome [student](serious/profile.md#age)!
+
 ## Current lesson
 
 `latest`
 
 ## Other lessons
 
+Which module?
+
 ### Module 1 `on: May 3`
 
-#### Lesson 1`on: May 3`
+Which lesson?
 
-Today we learn about Lesson 1
-
-* Take quiz
-* Read more
-* See definitions
+#### [Lesson 1](course-nested-pages/example-lesson.md)`on: May 3`
 
 ### Module 1 `on: May 10`
 

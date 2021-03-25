@@ -1,7 +1,8 @@
 ---
 description: >-
-  Verbose, checking links are correct is important, header names and levels are
-  used mostly for internal reference.
+  Links are not auto updated when page or anchor names change. Verbose, checking
+  links are correct is important, header names and levels are used mostly for
+  internal reference.
 ---
 
 # Course Explicit
@@ -10,10 +11,10 @@ Yiya Air Science
 Welcome [student](serious/profile.md#age)!
 
 * Latest lesson `latest`
-* [Other lessons](course-explicit.md#modules)
+* [Other lessons](course-explicit.md#asdf)
 * [About me](course-explicit.md#about-me)
 
-## Modules Test <a id="asdf"></a>
+## Modules <a id="fdsa"></a>
 
 Select a module
 
