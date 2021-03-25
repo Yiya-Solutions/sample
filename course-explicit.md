@@ -1,5 +1,7 @@
 ---
-description: 'Verbose, checking links are correct is important'
+description: >-
+  Verbose, checking links are correct is important, header names and levels are
+  used mostly for internal reference.
 ---
 
 # Course Explicit
@@ -11,7 +13,7 @@ Welcome [student](serious/profile.md#age)!
 * [Other lessons](course-explicit.md#modules)
 * [About me](course-explicit.md#about-me)
 
-## Modules
+## Modules <a id="asdf"></a>
 
 Select a module
 
@@ -29,7 +31,19 @@ Title of module. Select a lesson.
 * Lesson 4 `on: May 6`
 * Lesson 5 `on: May 7`
 
+### Module 2
+
+Title of module. Select a lesson.
+
+* Lesson 1 `on: May 10`
+* Lesson 2 `on: May 11`
+* Lesson 3 `on: May 12`
+* Lesson 4 `on: May 13`
+* Lesson 5 `on: May 14`
+
 ## About Me
+
+* Check scores
 
 
 

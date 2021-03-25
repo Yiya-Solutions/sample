@@ -1,5 +1,7 @@
 ---
-description: 'Getting correct level of header is delicate, Tags in headers are challenging'
+description: >-
+  Getting correct level of header is delicate, Tags in headers are challenging,
+  need more pages for deeper menus than 3
 ---
 
 # Course Implicit
@@ -20,9 +22,9 @@ Today we learn about Lesson 1
 * Read more
 * See definitions
 
-### Module 1 `on: May 3`
+### Module 1 `on: May 10`
 
-#### Lesson 1`on: May 3`
+#### Lesson 1`on: May 10`
 
 Today we learn about Lesson 1
 
@@ -30,9 +32,7 @@ Today we learn about Lesson 1
 * Read more
 * See definitions
 
-
-
-#### Lesson 1`on: May 3`
+#### Lesson 2`on: May 11`
 
 Today we learn about Lesson 1
 
