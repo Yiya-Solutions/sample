@@ -16,4 +16,13 @@
 ## Serious
 
 * [Profile](serious/profile.md)
+* [Untitled](serious/untitled.md)
+
+## Course Styles
+
+---
+
+* [Course Explicit](course-explicit.md)
+* [Course Implicit](course-implicit.md)
+* [Course List](course-list.md)
 
