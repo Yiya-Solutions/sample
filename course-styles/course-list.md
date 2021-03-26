@@ -5,7 +5,7 @@ description: 'Nested lists is hard to copy/paste, not easily extendible'
 # Course List
 
 Yiya Air Science  
-Welcome [student](serious/profile.md#age)!
+Welcome [student](../serious/profile.md#age)!
 
 * Latest lesson `latest`
 * Other lessons - Which module?

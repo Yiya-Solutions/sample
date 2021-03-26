@@ -8,7 +8,7 @@ description: >-
 # Course Explicit
 
 Yiya Air Science  
-Welcome [student](serious/profile.md#age)!
+Welcome [student](../serious/profile.md#age)!
 
 * Latest lesson `latest`
 * [Other lessons](course-explicit.md#asdf)

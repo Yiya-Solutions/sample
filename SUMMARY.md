@@ -20,17 +20,15 @@
 
 ## Course Styles
 
----
-
-* [Course Explicit](course-explicit.md)
-* [Course Implicit](course-implicit.md)
-* [Course List](course-list.md)
-* [Course Nested Pages](course-nested-pages/README.md)
-  * [Module 1](course-nested-pages/module-1/README.md)
-    * [Lesson 1](course-nested-pages/module-1/lesson-1.md)
-  * [Module 2](course-nested-pages/module-2/README.md)
-    * [Lesson 1](course-nested-pages/module-2/lesson-1.md)
-    * [Lesson 2](course-nested-pages/module-2/lesson-2.md)
-  * [Example Lesson](course-nested-pages/example-lesson.md)
-* [Untitled](untitled.md)
+* [Course Explicit](course-styles/course-explicit.md)
+* [Course Implicit](course-styles/course-implicit.md)
+* [Course List](course-styles/course-list.md)
+* [Course Nested Pages](course-styles/course-nested-pages/README.md)
+  * [Module 1](course-styles/course-nested-pages/module-1/README.md)
+    * [Lesson 1](course-styles/course-nested-pages/module-1/lesson-1.md)
+  * [Module 2](course-styles/course-nested-pages/module-2/README.md)
+    * [Lesson 1](course-styles/course-nested-pages/module-2/lesson-1.md)
+    * [Lesson 2](course-styles/course-nested-pages/module-2/lesson-2.md)
+  * [Example Lesson](course-styles/course-nested-pages/example-lesson.md)
+* [Untitled](course-styles/untitled.md)
 
