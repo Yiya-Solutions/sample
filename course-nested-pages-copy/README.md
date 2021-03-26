@@ -4,7 +4,7 @@ description: >-
   obvious , tags are harder to use in descriptions
 ---
 
-# Course Nested Pages
+# Course Nested Pages Copy
 
 Welcome to Yiya AirScience, [student](../course-list.md)!
 
