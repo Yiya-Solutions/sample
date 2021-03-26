@@ -30,5 +30,6 @@
     * [Lesson 1](course-styles/course-nested-pages/module-2/lesson-1.md)
     * [Lesson 2](course-styles/course-nested-pages/module-2/lesson-2.md)
   * [Example Lesson](course-styles/course-nested-pages/example-lesson.md)
+* [Course Nested Pages Copy](course-styles/course-nested-pages-copy.md)
 * [Untitled](course-styles/untitled.md)
 
