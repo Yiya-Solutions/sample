@@ -46,7 +46,7 @@ This is a test.
 
 This is [a link](./#say-what)
 
-![](.gitbook/assets/just+yiya+logo+-+small-done%20%281%29%20%281%29%20%282%29%20%282%29%20%282%29.png)
+![](.gitbook/assets/just+yiya+logo+-+small-done%20%281%29%20%281%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
 
 ## Test heading anchor something else &lt;&lt;a id="test-heading-anchor-test
 
