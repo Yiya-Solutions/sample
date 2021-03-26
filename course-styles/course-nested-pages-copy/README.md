@@ -1,4 +1,10 @@
-# Course Nested Pages Copy
+---
+description: >-
+  Tedious creating new sections, links automatically update, menu structure is
+  obvious , tags are harder to use in descriptions
+---
 
-Some new content
+# Course Nested Pages
+
+Welcome to Yiya AirScience, [student](../course-list.md)!
 
