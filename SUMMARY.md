@@ -34,7 +34,6 @@
   * [Module 1](course-styles/course-nested-pages-copy/module-1/README.md)
     * [Lesson 1](course-styles/course-nested-pages-copy/module-1/lesson-1.md)
   * [Module 2](course-styles/course-nested-pages-copy/module-2/README.md)
-    * [Lesson 1](course-styles/course-nested-pages-copy/module-2/lesson-1.md)
     * [Lesson 2](course-styles/course-nested-pages-copy/module-2/lesson-2.md)
   * [Example Lesson](course-styles/course-nested-pages-copy/example-lesson.md)
 * [Untitled](course-styles/untitled.md)
