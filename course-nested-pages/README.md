@@ -6,3 +6,5 @@ description: >-
 
 # Course Nested Pages
 
+Welcome to Yiya AirScience, [student](../course-list.md)!
+
