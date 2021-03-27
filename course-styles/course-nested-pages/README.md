@@ -20,6 +20,10 @@ Message 2
 
 Message 2a
 
+* Choice 1
+* Choice 2
+* Choice 3
+
 ### Subchoice 2b
 
 Message 2b
@@ -27,6 +31,8 @@ Message 2b
 #### Subsubchoicece 2balpha
 
 Message 2b alpha
+
+* Once choice
 
 
 
