@@ -15,8 +15,10 @@
 
 ## Serious
 
-* [Profile](serious/profile.md)
-* [Untitled](serious/untitled.md)
+* [Profile](serious/profile/README.md)
+  * [Another](serious/profile/another.md)
+  * [Age](serious/profile/age.md)
+* [Onboarding](serious/untitled.md)
 
 ## Course Styles
 

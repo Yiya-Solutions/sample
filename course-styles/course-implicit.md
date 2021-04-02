@@ -7,7 +7,7 @@ description: >-
 # Course Implicit
 
 Yiya Air Science  
-Welcome [student](../serious/profile.md#age)!
+Welcome [student](../serious/profile/#age)!
 
 ## Current lesson
 

@@ -7,7 +7,7 @@ description: >-
 # Course List
 
 Yiya Air Science  
-Welcome [student](../serious/profile.md#age)!
+Welcome [student](../serious/profile/#age)!
 
 * Latest lesson `latest`
 * Other lessons - Which module?
