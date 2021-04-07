@@ -4,6 +4,8 @@ description: '`test`'
 
 # sample
 
+This is a [test](same-headings-test.md#subheading-1)
+
 ## Test <a id="what-is-it-now"></a>
 
 > test

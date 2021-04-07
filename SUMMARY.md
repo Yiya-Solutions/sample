@@ -40,3 +40,7 @@
   * [Example Lesson](course-styles/course-nested-pages-copy/example-lesson.md)
 * [Untitled](course-styles/untitled.md)
 
+---
+
+* [Same headings test](same-headings-test.md)
+
