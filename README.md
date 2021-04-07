@@ -56,7 +56,7 @@ This is [a link](./#say-what)
 
 ### Another
 
-Test [link](./#other-anchor)
+Test [link](course-styles/course-implicit.md#module-1-on-may-10)
 
 Outside a page [link](this-is-a-sample/#quiz-question-2-test-code)
 
@@ -83,7 +83,7 @@ Choices \[`this`\]\(https://www.google.com\)
 * Go to that location'
 * Store the response in that location \(only, and also?\) .\(Links in headers\) 
 
-
+Test
 
 This is an "[example](test-group/a-group.md#header)"
 
