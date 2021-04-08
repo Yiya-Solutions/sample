@@ -43,4 +43,5 @@
 ---
 
 * [Same headings test](same-headings-test.md)
+* [Tag Test](tag-test.md)
 
