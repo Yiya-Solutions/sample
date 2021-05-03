@@ -3,7 +3,7 @@
 * [sample](README.md)
 * [This is a sample](this-is-a-sample/README.md)
   * [This is a sample \(other language\)](this-is-a-sample/this-is-a-sable.md)
-* [Child](child.md)
+* [Child \# Test](child.md)
 
 ## test-group
 

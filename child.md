@@ -2,7 +2,7 @@
 description: Test parent link
 ---
 
-# Child
+# Child \# Test
 
 Test [parent link](test-group/a-group.md#header)
 
