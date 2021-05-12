@@ -6,6 +6,11 @@ description: '`test`'
 
 This is a [test](same-headings-test.md#subheading-1)
 
+![Something here to send](.gitbook/assets/just+yiya+logo+-+small-done%20%281%29%20%281%29%20%282%29%20%282%29%20%282%29%20%282%29.png)
+
+* ![](.gitbook/assets/just+yiya+logo+-+small-done%20%281%29%20%281%29%20%282%29%20%282%29%20%282%29%20%282%29.png) 
+* ![](.gitbook/assets/wraparound-team-facilitator-badge-1-.png) 
+
 ## Test <a id="what-is-it-now"></a>
 
 > test
