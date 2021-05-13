@@ -29,5 +29,5 @@ Quiz
 
 ### Test heading <a id="with-a-different-anchor"></a>
 
-Some text underneath it ![](.gitbook/assets/just+yiya+logo+-+small-done%20%281%29%20%281%29%20%281%29.png) 
+Some text underneath it ![](.gitbook/assets/just+yiya+logo+-+small-done%20%281%29%20%281%29%20%282%29%20%282%29%20%282%29.png) 
 
