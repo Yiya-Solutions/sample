@@ -32,11 +32,11 @@
 
 ### Sunday \(23/05\)
 
-`insert file` Robocall preview of intro step lesson 1
+`insert file` Robocall preview of intro step
 
 ### Monday \(24/05\)
 
-`send` Today is Yiya AirScience lesson 1 of the intro step at Radio Maria Gulu from 1:30pm. You will Dial \***284\***19\# to answer questions
+`send` Today is Yiya AirScience lesson 1 of the intro step on Radio Maria Gulu from 1:30pm. You will Dial \***284\***19\# to answer questions
 
 `send` Bring a pen, a phone, a cup, 1 piece of paper that has instructions for how to make malakwang on it, some leaves for today’s Yiya AirScience lesson
 
@@ -50,7 +50,7 @@
 
 `stop` [Intro Step: Lesson 1](intro-step/intro-step-lesson-1.md)
 
-`send` Today is Yiya AirScience lesson 2 of the intro step at Radio Maria Gulu from 1:30pm. You will Dial \***284\***19\# to answer questions
+`send` Today is Yiya AirScience lesson 2 of the intro step on Radio Maria Gulu from 1:30pm. You will Dial \***284\***19\# to answer questions
 
 `assign` [Intro Step: Lesson 2](intro-step/intro-step-lesson-2.md)
 
