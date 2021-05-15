@@ -2,35 +2,41 @@
 
 ## Week 1
 
-### Monday
+### Monday \(17/05\)
 
 `assign` [Welcome](welcome.md)
 
-`assign` [Baseline Survey](baseline-survey.md)
+`send` Yiya AirScience is open for registration. Dial \*284\*19\# to register yourself if you're a youth or a child if you're a parent or to see if you’re registered.
 
-`send` Yiya AirScience starts today! Please take our warm up quiz by dialing \*284\*19
+## Tuesday\(18/05\)
 
-## Week 2
+`send` Tune to Radio Maria Gulu-105.7FM if you're in northern Uganda \(other locations, use Radio Maria App\) at 1:30pm Wed to Fri for the live Yiya AirScience lesson.
 
-### Sunday
+## Wednesday \(19/05\)
 
-{% file src="../.gitbook/assets/alan\_step-1\_-identify-radio-lesson-1-1-.mp3" caption="Content Preview" %}
+`send` Yiya AirScience starts today with a baseline survey! Tune to Radio Maria 105.7FM if you’re in Northern Ug \(other locations, use Radio Maria App\). Dial \***284\***19\#
 
-### Monday
+`assign` Baseline survey
 
-`send` Today is Lesson 1 of Intro Step! Tune into 98.1 @ 10am.
 
-`assign` [Intro Step: Lesson 1](intro-step/intro-step-lesson-1.md)
 
-### Wednesday
+### Thursday \(20/05\)
 
-`stop` [Intro Step: Lesson 1](intro-step/intro-step-lesson-1.md)
+`assign` Baseline survey
 
-`send` Today is Lesson 2 of Intro Step! Tune into 98.1 @ 10am.
+### Friday 
 
-`assign` [Intro Step: Lesson 2](intro-step/intro-step-lesson-2.md)
+`assign` Baseline survey
 
-### Friday
+### Week 2
+
+## Sunday 
+
+`send` Robocall preview of intro step lesson 1
+
+
+
+
 
 `stop` [Intro Step: Lesson 2](intro-step/intro-step-lesson-2.md)
 
