@@ -1,7 +1,7 @@
 # Table of contents
 
 * [sample](README.md)
-* [Config](untitled.md)
+* [Untitled](untitled.md)
 * [Sample Course Syllabus](sample-course-syllabus/README.md)
   * [Welcome](sample-course-syllabus/welcome.md)
   * [Baseline Survey](sample-course-syllabus/baseline-survey.md)

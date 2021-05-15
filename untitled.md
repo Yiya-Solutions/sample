@@ -1,13 +1,4 @@
-# Config
-
-```yaml
-Test: Another
-Something:
-    - Test
-    - Test
-    - Something:
-        - Test
-```
+# Untitled
 
 Welcome back to Yiya AirScience!
 
