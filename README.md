@@ -44,7 +44,13 @@ You can also omit the send tag in schedule files, since send is the default acti
 
 `@10am` Time tags are used to run this action at a particular time of day. If not specified the default time for that action is used. Times are all relative to the course timezone \(Kampala time\). They can be used for robocalls as well by putting them in the caption of the file.
 
+`send` `@2:30pm` Combining tags is okay, as are minutes in the date field.
+
 {% file src=".gitbook/assets/alan\_step-1\_-identify-radio-lesson-1-1-.mp3" caption="@4pm" %}
+
+You can also combine actions into a script that executes if there is more than one thing to do.
+
+`send` [Multi Action](multi-action.md)
 
 ### Assign
 

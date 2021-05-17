@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Schedule Files Guide](README.md)
+* [Multi Action](multi-action.md)
 * [Broadcast to Everyone](broadcast-to-everyone.md)
 * [Broadcast to Unregistered](broadcast-to-unregistered.md)
 * [Registration](registration.md)
