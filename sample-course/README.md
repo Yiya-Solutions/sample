@@ -18,7 +18,7 @@ Tune to Radio Maria Gulu-105.7FM if you're in northern Uganda \(other locations,
 
 Yiya AirScience starts today with a baseline survey! Tune to Radio Maria 105.7FM if you’re in Northern Ug \(other locations, use Radio Maria App\). Dial \***284\***19\#
 
-`optional` [Intro Step: Lesson 1 Quiz]()
+`optional` [Intro Step: Lesson 1](intro-step/intro-step-lesson-1.md)
 
 ### Thursday \(20/05\)
 
