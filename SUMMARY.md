@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Guide](README.md)
+* [Schedule Files Guide](README.md)
 * [Broadcast to Everyone](broadcast-to-everyone.md)
 * [Broadcast to Unregistered](broadcast-to-unregistered.md)
 * [Registration](registration.md)
@@ -13,4 +13,8 @@
     * [Intro Step: Lesson 3](sample-course/intro-step/intro-step-lesson-3.md)
 * [Notifications](notifications/README.md)
   * [Generic Goodbye](notifications/generic-goodbye.md)
+
+## Other ideas
+
+* [Start tag](other-ideas/start-tag.md)
 
