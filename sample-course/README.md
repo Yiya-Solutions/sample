@@ -38,6 +38,8 @@ Yiya AirScience starts today with a baseline survey! Tune to Radio Maria 105.7FM
 
 `insert file` Robocall preview of intro step
 
+
+
 ### Monday \(24/05\)
 
 `send` Today is Yiya AirScience lesson 1 of the intro step on Radio Maria Gulu from 1:30pm. You will Dial \***284\***19\# to answer questions
