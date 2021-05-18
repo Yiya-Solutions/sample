@@ -1,3 +1,7 @@
+---
+description: 'Starts June 29, 2021'
+---
+
 # Sample Course
 
 ## Week 1
@@ -8,7 +12,7 @@
 
 `require` [Baseline survey](baseline-survey.md)
 
-Yiya AirScience is open for registration. Dial \*284\*19\# to register yourself if you're a youth or a child if you're a parent or to see if you’re registered
+`send` Yiya AirScience is open for registration. Dial \*284\*19\# to register yourself if you're a youth or a child if you're a parent or to see if you’re registered
 
 ### Tuesday\(18/05\)
 
