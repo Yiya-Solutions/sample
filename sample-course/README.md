@@ -1,5 +1,5 @@
 ---
-description: 'Starts June 29, 2021'
+description: 'Starts May 16, 2021'
 ---
 
 # Sample Course
