@@ -153,7 +153,9 @@ This is an example question? With a tag that ensures we get a response. `go`
 
 
 
-{% file src=".gitbook/assets/alan\_step-1\_-identify-radio-lesson-1-1-.mp3" %}
+
+
+{% file src=".gitbook/assets/alan\_step-1\_-identify-radio-lesson-1-1-.mp3" caption="Caption" %}
 
 
 
