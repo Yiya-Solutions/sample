@@ -6,7 +6,7 @@ description: 'Starts May 16, 2021'
 
 ## Week 1
 
-### Monday \(17/05\)
+### Monday \(May 31\)
 
 `require` [Welcome](welcome.md)
 
@@ -14,17 +14,19 @@ description: 'Starts May 16, 2021'
 
 `send` Yiya AirScience is open for registration. Dial \*284\*19\# to register yourself if you're a youth or a child if you're a parent or to see if you’re registered
 
-### Tuesday\(18/05\)
+### Tuesday\(June 1\)
 
 Tune to Radio Maria Gulu-105.7FM if you're in northern Uganda \(other locations, use Radio Maria App\) at 1:30pm Wed to Fri for the live Yiya AirScience lesson.
 
-### Wednesday \(19/05\)
+### Wednesday \(June 2\)
 
-Yiya AirScience starts today with a baseline survey! Tune to Radio Maria 105.7FM if you’re in Northern Ug \(other locations, use Radio Maria App\). Dial \***284\***19\#
+`send` Yiya AirScience starts today with a baseline survey! Tune to Radio Maria 105.7FM if you’re in Northern Ug \(other locations, use Radio Maria App\). Dial \***284\***19\#
 
 `optional` [Intro Step: Lesson 1](intro-step/intro-step-lesson-1.md)
 
-### Thursday \(20/05\)
+### Thursday \(June 3\)
+
+
 
 ### Friday
 

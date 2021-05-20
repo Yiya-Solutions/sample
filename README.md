@@ -23,7 +23,7 @@ If useful we can also create recurring schedules for repetitive tasks like
 
 Where sections occur in a file is irrelevant \(other than relative dates\). **Do not put anything else besides a single relative or absolute date \(not both\) in the header.** Otherwise we will not be able to properly schedule.
 
-## Available Files
+## Available Files 
 
 * **Broadcast to Everyone -** Sends to every contact in our database
 * **Broadcast to Unregistered** - Sends to contacts in our database who have not finished registration
